@@ -5,7 +5,7 @@ description: "I work with a wide variety of technologies and people. Learn more 
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/sitepfpsquare.png"
-background: "assets/img/moonrise-background.jpg"
+background: "assets/img/sitebkg.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
 url: https://danjgreeley.com
