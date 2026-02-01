@@ -1,5 +1,5 @@
 # Site
-title: Moonrise
+title: Dan Greeley
 bio: "Minimal, one column jekyll theme."
 description: "Moonrise is a fresh take on the classic Moon"
 reading_time: true
@@ -36,10 +36,10 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-#email:
-twitter: username
-facebook: username
-github-url: username
+email: danjgreeley@gmail.com
+#twitter: username
+#facebook: username
+github-url: danjgreeley
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin: danjgreeley
 #xing: username
