@@ -1,38 +1,29 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2024-02-11
+title: About
+tags: [about, Dan, me, work]
+date: 2026-02-1
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>Daniel Greeley is focused on helping people solve problems.</center>
 
-## Features
+## About
+Dan has been working in 
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
 
-## Preview
+## Experience
 
-{% capture images %}
-https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
 
-## Getting Started
+## Education
+University of North Georgia, BS Cybersecurity - Cum Laude 5/23
+- Major: Cybersecurity | Minor: Computer Science
+- Dean’s List 2023, NSA Codebreaker High Performers List, CyberSEED 2nd place, Cyberhawks member
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+## Certificates
+CompTIA Network+ - 4/21/25 COMP001022772401
+!(/assets/img/Network+-png.png)
 
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
+CompTIA Security+ - 9/15/25 COMP001022772401
+!(/assets/img/Security+-png.png)
