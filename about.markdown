@@ -15,16 +15,18 @@ Currently serving an industrial automation group providing support for multiple 
 During my tenure at UNG I immersed myself in cybersecurity competitions, and lately for fun I’m experimenting in a home lab environment with Proxmox virtualization, Ansible playbooks for orchestration of redeployment and disaster recovery, Docker based game servers, home automation, VPN management, and much more. 
 
 ## Experience
+
 Phoenix Contact | Product Support Representative         10/23-Now
 	Working with customers and coworkers on IPSec VPN security, router configuration and ICS/OT/IT networking solutions, both physical and in the cloud. 
 	Expertise in PLCNext programming, RESTful API programming support, and various industrial protocols. Troubleshooting includes Wireshark, traceroute, deep product knowledge, and more. 
 	Actively working with upper management and product teams on improving the forward facing sales and product marketing and documentation. 
+
 Murrelektronik | Product Support Representative         9/19-2/23
 	Provided expert support with programmable logic controller (PLC) programming, power supply, data management, and signal connectivity solutions for industrial control systems. 
 	Provided invaluable leadership in solving project management obstacles involving multiple teams, and turned complex problems into step-by-step solutions. 
 	Maintained and implemented new features on private company website for multiple departments, which included R/Shiny, PHP, JavaScript, Java, Nginx, MySQL, and AWS Services. 
 	Specialized in automating redundant tasks through programming in Python. 
-    Led the incident response during sensitive data breach of MariaDB database. Determined scope of impact, executing necessary patches, and suggested future mitigation. Performed monthly reports, reviews, and meetings on internal software development and IT risk management practices to executive teams ad-hoc. 
+    Led the incident response during sensitive data breach of MariaDB database. Determined scope of impact, executing necessary patches, and suggested future mitigation. Performed monthly reports, reviews, and meetings on     internal software development and IT risk management practices to executive teams ad-hoc. 
 
 
 ## Education
