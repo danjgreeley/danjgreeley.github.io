@@ -38,8 +38,8 @@ University of North Georgia, BS Cybersecurity - Cum Laude 5/23
 ## Certificates
 CompTIA Network+ - 4/21/25 COMP001022772401
 
-<img src="/assets/img/Network+-png.png" alt="Net+" width="200"/>
+<img src="/assets/img/Network+-png.png" alt="Net+"/>
 
 CompTIA Security+ - 9/15/25 COMP001022772401
 
-<img src="/assets/img/Security+-png.png" alt="Sec+" width="200"/>
+<img src="/assets/img/Security+-png.png" alt="Sec+" width="20%"/>
