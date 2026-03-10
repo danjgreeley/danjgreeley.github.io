@@ -16,7 +16,7 @@ Currently serving an industrial automation group providing support for multiple 
 During my tenure at UNG I immersed myself in cybersecurity competitions, and lately for fun I’m experimenting in a home lab environment with Proxmox virtualization, Ansible playbooks for orchestration of redeployment and disaster recovery, Docker based game servers, home automation, VPN management, and much more. 
 
 ## Experience
-<img class="image-cert" src="/assets/img/phoenix_logo.png" alt="Net+"/>
+<img class="image-cert" src="/assets/img/phoenix_logo.png" alt="Phoenix Contact Logo"/>
 Phoenix Contact | Product Support Representative         10/23-Now
 	Working with customers and coworkers on IPSec VPN security, router configuration and ICS/OT/IT networking solutions, both physical and in the cloud. 
 	Expertise in PLCNext programming, RESTful API programming support, and various industrial protocols. Troubleshooting includes Wireshark, traceroute, deep product knowledge, and more. 
