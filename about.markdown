@@ -9,19 +9,20 @@ comments: false
 <center>Daniel Greeley is focused on helping people solve problems.</center>
 
 ## Summary
-I am adaptable and quick to apply learned concepts, providing the ability to lead teams in the effort to convert strife into success, including preventing a mass-recall with a business critical client by learning microcontroller APIs to create a comprehensive and rapidly deployable solution. 
-I provided rapid incident response to a company with no means to secure their attack surface which experienced a compromise to ransomware, immediately restoring functionality and securing business interests, afterwards providing vulnerability assessments to other business units.  
+I am constantly learning new things to help others around me with the technical problems they have. I thrive in environments where problems require complex technical depth and understanding, and I look to turn frustrating issues into simple solutions. Ownership and servitude are concepts I pride myself deeply on, and I will pursue issues as long as it takes to see them resolved. 
 
-Currently serving an industrial automation group providing support for multiple product lines with a specialization toward ICS/OT networking, Cloud/VPN management, hardware virtualization and PLC programming. Always looking for creative ways to solve issues, focusing on attention to detail and high quality work with a passion for automation and optimization.
-During my tenure at UNG I immersed myself in cybersecurity competitions, and lately for fun I’m experimenting in a home lab environment with Proxmox virtualization, Ansible playbooks for orchestration of redeployment and disaster recovery, Docker based game servers, home automation, VPN management, and much more. 
+## Industrial Automation
+I have been in the field of ICS, OT, and SCADA for over 6 years now. I understand how to diagnose high level issues down to the wire that's causing it, and can reverse the process back up to the IT systems which create actionable data. 
 
 ## Experience
 <img class="image-cert" src="/assets/img/phoenix_logo.png" alt="Phoenix Contact Logo"/>
+
 Phoenix Contact | Product Support Representative         10/23-Now
 	Working with customers and coworkers on IPSec VPN security, router configuration and ICS/OT/IT networking solutions, both physical and in the cloud. 
 	Expertise in PLCNext programming, RESTful API programming support, and various industrial protocols. Troubleshooting includes Wireshark, traceroute, deep product knowledge, and more. 
 	Actively working with upper management and product teams on improving the forward facing sales and product marketing and documentation. 
 
+<img class="image-cert" src="/assets/img/murrelektronik-logo.png" alt="Murrelektronik Logo"/>
 Murrelektronik | Product Support Representative         9/19-2/23
 	Provided expert support with programmable logic controller (PLC) programming, power supply, data management, and signal connectivity solutions for industrial control systems. 
 	Provided invaluable leadership in solving project management obstacles involving multiple teams, and turned complex problems into step-by-step solutions. 
@@ -29,17 +30,18 @@ Murrelektronik | Product Support Representative         9/19-2/23
 	Specialized in automating redundant tasks through programming in Python. 
     Led the incident response during sensitive data breach of MariaDB database. Determined scope of impact, executing necessary patches, and suggested future mitigation. Performed monthly reports, reviews, and meetings on     internal software development and IT risk management practices to executive teams ad-hoc. 
 
+## Cybersecurity, Information Technology, Programming
+Academically, and as a part of several hobbies I have, I am enthusiastic about server management, cybersecurity, tinkering with electronics, and programming. You can see more below on my education, and my posts and projects pages are worth checking out for more. 
 
 ## Education
+<img class="image-cert" src="/assets/img/ung-logo.png" alt="University of North Georgia Logo"/>
 University of North Georgia, BS Cybersecurity - Cum Laude 5/23
 - Major: Cybersecurity | Minor: Computer Science
 - Dean’s List 2023, NSA Codebreaker High Performers List, CyberSEED 2nd place, Cyberhawks member
 
 ## Certificates
+<img class="image-cert" src="/assets/img/Network+-png.png" alt="Net+"/>
 CompTIA Network+ - 4/21/25 COMP001022772401
 
-<img class="image-cert" src="/assets/img/Network+-png.png" alt="Net+"/>
-
-CompTIA Security+ - 9/15/25 COMP001022772401
-
 <img class="image-cert" src="/assets/img/Security+-png.png" alt="Sec+"/>
+CompTIA Security+ - 9/15/25 COMP001022772401
