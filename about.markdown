@@ -15,14 +15,24 @@ I am constantly learning new things to help others around me with the technical 
 I have been in the field of ICS, OT, and SCADA for over 6 years now. I understand how to diagnose high level issues down to the wire that's causing it, and can reverse the process back up to the IT systems which create actionable data. 
 
 ## Experience
+
+
+
 <img class="image-cert" src="/assets/img/phoenix_logo.png" alt="Phoenix Contact Logo"/>
+
+
 
 Phoenix Contact | Product Support Representative         10/23-Now
 	Working with customers and coworkers on IPSec VPN security, router configuration and ICS/OT/IT networking solutions, both physical and in the cloud. 
 	Expertise in PLCNext programming, RESTful API programming support, and various industrial protocols. Troubleshooting includes Wireshark, traceroute, deep product knowledge, and more. 
 	Actively working with upper management and product teams on improving the forward facing sales and product marketing and documentation. 
 
+
+
 <img class="image-cert" src="/assets/img/murrelektronik-logo.png" alt="Murrelektronik Logo"/>
+
+
+
 Murrelektronik | Product Support Representative         9/19-2/23
 	Provided expert support with programmable logic controller (PLC) programming, power supply, data management, and signal connectivity solutions for industrial control systems. 
 	Provided invaluable leadership in solving project management obstacles involving multiple teams, and turned complex problems into step-by-step solutions. 
