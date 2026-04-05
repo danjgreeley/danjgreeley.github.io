@@ -20,7 +20,8 @@ I have been in the field of ICS, OT, and SCADA for over 6 years now. I understan
 
 <div markdown="1">
     
-### Phoenix Contact - Product Support Representative         10/23-Now
+### Phoenix Contact - Product Support Representative         
+### 10/23-Now
 Working with customers and coworkers on IPSec VPN security, router configuration and ICS/OT/IT networking solutions, both physical and in the cloud. 
 Expertise in PLCNext programming, RESTful API programming support, and various industrial protocols. 
 Working with programming to controller API support. 
@@ -32,7 +33,8 @@ Troubleshooting includes Wireshark, traceroute, deep product knowledge, and more
 
 <div markdown="1">
 
-### Murrelektronik - Product Support Representative         9/19-2/23
+### Murrelektronik - Product Support Representative         
+### 9/19-2/23
 Supported programmable logic controller programming, power reliability, data management, and signal connectivity solutions. 
 Implemented new features on private company website with full stack experience. 
 Specialized in automating redundant tasks through programming in Python. 
