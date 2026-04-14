@@ -55,14 +55,14 @@ Dean’s List 2023, NSA Codebreaker High Performers List, CyberSEED 2nd place, C
 <img class="image-cert" src="/assets/img/Network+-png.png" alt="Net+"/>
  
 
-### CompTIA Network+
-### 4/21/25 
+## CompTIA Network+
+## 4/21/25 
 COMP001022772401 
 
 <img class="image-cert" src="/assets/img/Security+-png.png" alt="Sec+"/>
 
-### CompTIA Security+ 
-### 9/15/25 
+## CompTIA Security+ 
+## 9/15/25 
 COMP001022772401  
 
 Please read more in my posts and projects pages!
