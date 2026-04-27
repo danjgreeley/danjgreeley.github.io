@@ -16,7 +16,7 @@ I have been in the field of ICS, OT, and SCADA for over 6 years now. I understan
 
 ## Experience
 
-<img class="image-cert" src="/assets/img/phoenix_logo.png" alt="Phoenix Contact Logo"/>
+[<img class="image-cert" src="/assets/img/phoenix_logo.png" alt="Phoenix Contact Logo"/>](https://danjgreeley.com/phoenixcontact/)
 
 <div markdown="1">
 
