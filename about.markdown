@@ -30,10 +30,11 @@ Working with customers and coworkers on IPSec VPN security, router configuration
 Expertise in PLCNext programming, RESTful API programming support, and various industrial protocols. 
 Working with programming to controller API support. 
 Troubleshooting includes Wireshark, traceroute, deep product knowledge, and more. 
+Click the logo for more info!
 
 </div>
 
-<img class="image-cert" src="/assets/img/murrelektronik-logo.png" alt="Murrelektronik Logo"/>
+[<img class="image-cert" src="/assets/img/murrelektronik-logo.png" alt="Murrelektronik Logo"/>](https://danjgreeley.com/murrelektronik/)
 
 <div markdown="1">
 
@@ -47,6 +48,7 @@ Supported programmable logic controller programming, power reliability, data man
 Implemented new features on private company website with full stack experience. 
 Specialized in automating redundant tasks through programming in Python. 
 Led incident response during sensitive data breach of MariaDB database.  
+Click the logo for more info!
 
 </div>
 
@@ -54,10 +56,11 @@ Led incident response during sensitive data breach of MariaDB database.
 Academically, and as a part of several hobbies I have, I am enthusiastic about server management, cybersecurity, tinkering with electronics, and programming. You can see more below on my education, and my posts and projects pages are worth checking out for more. 
 
 ## Education
-<img class="image-cert" src="/assets/img/UNG_logo.png" alt="University of North Georgia Logo"/>
+[<img class="image-cert" src="/assets/img/UNG_logo.png" alt="University of North Georgia Logo"/>](https://danjgreeley.com/ung/)
 ### University of North Georgia, BS Cybersecurity - Cum Laude 5/23
 ### Major: Cybersecurity | Minor: Computer Science
-Dean’s List 2023, NSA Codebreaker High Performers List, CyberSEED 2nd place, Cyberhawks member
+Dean’s List 2023, NSA Codebreaker High Performers List, CyberSEED 2nd place, Cyberhawks member.
+Click the logo for more info!
 
 ## Certificates
 <img class="image-cert" src="/assets/img/Network+-png.png" alt="Net+"/>
