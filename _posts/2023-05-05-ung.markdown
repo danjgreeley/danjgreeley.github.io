@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Education: University of North Georgia - Bachelors of Science in Cybersecurity/Computer Science"
+date:   2023-05-05 12:00:00 +0300
+categories: education
+---
+
+More information will be available soon!
